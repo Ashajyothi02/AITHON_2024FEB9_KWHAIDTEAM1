@@ -23,11 +23,11 @@ Data Analysis refers to the process of inspecting, cleansing, transforming, and 
 # Project Overview
 
 1. Language Translation System captures and analyzes social media data from various platforms in real-time.
-Utilizes Natural Language Processing (NLP) techniques to detect and process multilingual content.
-2. Employs Google Translate API for language translation, enabling cross-linguistic analysis.
-3. Uses langdetect library for accurate language detection and content categorization.
-4. Leverages Pandas and NumPy for data manipulation and statistical analysis.
-5. Visualizes insights using Matplotlib and Seaborn, including sentiment distribution, engagement trends, and regional differences.
-6. Provides actionable insights for understanding global audience sentiments, cultural nuances, and emerging trends.
-7. Supports the development of targeted marketing strategies and improved brand engagement.
+2. Utilizes Natural Language Processing (NLP) techniques to detect and process multilingual content.
+3. Employs Google Translate API for language translation, enabling cross-linguistic analysis.
+4. Uses langdetect library for accurate language detection and content categorization.
+5. Leverages Pandas and NumPy for data manipulation and statistical analysis.
+6. Visualizes insights using Matplotlib and Seaborn, including sentiment distribution, engagement trends, and regional differences.
+7. Provides actionable insights for understanding global audience sentiments, cultural nuances, and emerging trends.
+8. Supports the development of targeted marketing strategies and improved brand engagement.
 
